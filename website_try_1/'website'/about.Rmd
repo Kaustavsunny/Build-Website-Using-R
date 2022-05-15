@@ -1,0 +1,6 @@
+---
+title: "Kaustav Chatterjee"
+
+---
+![](image.jpg){width=25%} 
+

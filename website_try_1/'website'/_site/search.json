@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Kaustav Chatterjee",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-15T21:41:51+05:30"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-15T21:42:18+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Kaustav Chatterjee",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n      \r\n      Kaustav Chatterjee\r\n      \r\n      \r\n      Home\r\n      About\r\n      Blog\r\n      \r\n      \r\n      \r\n      \r\n      \r\n      \r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Kaustav Chatterjee\r\n          \r\n          \r\n            \r\n              Hi! 👋 I am a former statistics college professor now working in industry. I love wrangling, analyzing, and visualizing data, and helping others do the same.\r\n            \r\n            \r\n              Hi! 👋 I am a former statistics college professor now working in industry. I love wrangling, analyzing, and visualizing data, and helping others do the same.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                       GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                       LinkedIn\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                     GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                     LinkedIn\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-05-15T21:41:17+05:30"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
